@@ -1,0 +1,32 @@
+.container{
+  display: flex;
+  align-items: center;
+
+}
+.todo{
+    font-size: 1em;;
+    font-weight: bold;
+    color: black;
+    background-color: white;
+    border-radius: 1em;
+    padding: .5em;
+    margin: 1em;
+    width:80%;
+
+}
+.btn{
+    height: 40px;
+    border-radius: 5px;
+    font-size: 1em;
+    margin:2px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    color:black;
+    background-color:  rgb(153, 78, 78);
+    align-items:center; 
+    justify-content: center;
+    text-align: center;
+    
+
+}

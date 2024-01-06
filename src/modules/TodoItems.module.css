@@ -1,0 +1,24 @@
+.listContainer{
+    font-size: 1.1em;
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(94, 114, 94);
+    background-color: white;
+    border: 1 px solid lightcyan;
+    border-radius:  5px;
+    padding: 0.5em;
+    margin: 0.5em;
+
+}
+
+.listBtn{
+    border-radius: 5px;
+    margin: 0px 8px;
+    padding: 3px 5px;
+    border:none;
+    cursor:pointer;
+    color:rgb(15, 14, 15);
+    float:right;
+    background-color:  rgb(153, 78, 78);
+
+}

@@ -1,0 +1,153 @@
+/* .container{
+    width:500px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(189, 76, 76);
+    /* gap:10px; */
+
+/* .main{
+    margin-top:0px;
+    width: 400px;
+    height:140px;
+     background-color: rgb(172, 164, 164); 
+    display: flex;
+    flex-direction: column;
+    
+}
+h2{
+    text-align: center;
+}
+
+input{
+    width:180px;
+     margin-inline: 100px; 
+    border-radius: 1px;
+    border-style: ridge;
+    background-color: rgb(172, 164, 164);
+    
+    
+    
+}
+input-section{
+    
+}
+
+button{
+    margin-top: 10px;
+    width:90px;
+    margin-inline: 150px;
+}
+ */
+
+
+/* .box{
+    width:100%;
+}
+.inp{
+    border:2px solid black;
+    border-radius: 6px;
+    padding: 10px;
+}
+.btn{
+    font-weight: 800px;
+    background-color: rgb(104, 104, 243);
+    border: none;
+}
+.listItem{
+    width:100%;
+    display: flex;
+    justify-content: center;
+    color:rgb(24, 24, 24);
+} */
+
+/* .container{
+    height:50px;
+    width:30vw;
+    margin-left: 450px;
+    border-radius: 10px;
+    padding:15px;
+    color:white;
+    background-color: rgb(92, 55, 92);
+}
+.first{
+    font-size:medium;
+    text-align: center;
+} */
+
+.outerBox{
+    background-color: rgb(70, 102, 100);
+    width:50vw;
+    margin: 5em auto;
+    border-radius: 10px;
+    padding: 15px;
+    color:white;
+}
+.first{
+    font-size: medium;
+    text-align: center;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+  
+  }
+  .todo{
+      font-size: 1em;;
+      font-weight: bold;
+      color: black;
+      background-color: white;
+      border-radius: 1em;
+      padding: .5em;
+      margin: 1em;
+      width:80%;
+  
+  }
+  .btn{
+      height: 40px;
+      border-radius: 5px;
+      font-size: 1em;
+      margin:2px;
+      padding: 10px;
+      border: none;
+      cursor: pointer;
+      color:black;
+      background-color:  rgb(153, 78, 78);
+      align-items:center; 
+      justify-content: center;
+      text-align: center;
+      
+  
+  }
+
+  .listContainer{
+    font-size: 1.1em;
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(94, 114, 94);
+    background-color: white;
+    border: 1 px solid lightcyan;
+    border-radius:  5px;
+    padding: 0.5em;
+    margin: 0.5em;
+
+}
+
+.listBtn{
+    border-radius: 5px;
+    margin: 0px 8px;
+    padding: 3px 5px;
+    border:none;
+    cursor:pointer;
+    color:rgb(15, 14, 15);
+    float:right;
+    background-color:  rgb(153, 78, 78);
+
+}
+
+.completed{
+    text-decoration: line-through;
+}
